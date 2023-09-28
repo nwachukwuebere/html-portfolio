@@ -1,1 +1,1 @@
-# html-portfolio
+# javascript-portfolio
